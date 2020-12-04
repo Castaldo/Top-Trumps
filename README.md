@@ -1,4 +1,4 @@
-An implementation of the popular British card game **Top Trumps**
+An implementation of the popular British card game **Top Trumps** using Java.
 
 How to play:
 
