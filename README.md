@@ -15,4 +15,4 @@ How to play:
 
 6. Enjoy
 
-For a report of the program please refer to the file ITMSC-Team-Project.pdf
+For a report of the program please refer to the file TopTrumps.pdf
